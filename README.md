@@ -23,10 +23,10 @@ A collection of **Algorithm Design and Analysis (ADA)** practical programs imple
 ## How to Compile & Run
 
 ```bash
-# Compile all files
+# Compile a file
 javac PR1.java
 
-# Run
+# Run it
 java PR1
 ```
 
@@ -35,7 +35,7 @@ java PR1
 - **PR1–PR5**: Sorting algorithms with random arrays and execution time analysis
 - **PR6**: Search (Linear & Binary) on user-defined arrays
 - **PR7**: Prim's MST — Edge list and total weight
-- **PR8**: Kruskal's MST — Edge list and total weight  
+- **PR8**: Kruskal's MST — Edge list and total weight
 - **PR9**: Minimum coins to make a target amount
 - **PR10**: Maximum value fitting in knapsack capacity
 - **PR11**: Minimum scalar multiplications for matrix chain
